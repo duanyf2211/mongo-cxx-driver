@@ -22,7 +22,7 @@ We currently test the driver with the following configurations:
  VS    |   n/a    |    n/a      | 14 (2015) Update 3
  boost |    -     |   1.67.0    |      1.60.0
 
-Versions older the the ones listed may not work and are not
+Versions older than the ones listed may not work and are not
 supported; use them at your own risk.
 
 Versions newer than the ones listed above should work; if you
